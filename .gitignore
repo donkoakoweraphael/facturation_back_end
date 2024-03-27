@@ -7,7 +7,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-idea/
+.idea/
+MCD_Application_de_Facturation.bcd
+MCD_Application_de_Facturation.mcd
 
 # C extensions
 *.so
